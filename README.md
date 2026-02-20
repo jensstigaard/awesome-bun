@@ -123,6 +123,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 [EN] 🇬🇧
 
+- [Bun in 100 seconds - Fireship](https://www.youtube.com/watch?v=M4TufsFlv_o)
 - [JavaScript just got way faster - Fireship](https://www.youtube.com/watch?v=FMhScnY0dME)
 - [What is Bun](https://www.youtube.com/watch?v=Rp5yvwX7orE)
 - [Install Bun JS In Windows - Faster JavaScript](https://www.youtube.com/watch?v=aNL3gXW0ZuM)
